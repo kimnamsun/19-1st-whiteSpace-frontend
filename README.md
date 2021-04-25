@@ -68,7 +68,9 @@ https://vimeo.com/540894798
 - 로그인 토큰 유무에 따라 메뉴가 바뀌도록 구현
 
 ### 메인 페이지
-![](https://images.velog.io/images/nsunny0908/post/01943962-8b7a-4b5c-8219-f2725b05f5da/Apr-25-2021%2013-51-29.gif)
+![](https://images.velog.io/images/nsunny0908/post/58e75cd5-4e4c-44c4-b78c-c5ec69340e2f/Apr-25-2021%2023-52-03.gif)
+![](https://images.velog.io/images/nsunny0908/post/c74db7b2-1e1a-4f9e-b1b4-a67e8e842957/Apr-25-2021%2023-52-31.gif)
+
 - 🙋🏻‍♀️ **슬라이드를 이용한 이미지배너 구현**
 - 🙋🏻‍♀️**top 버튼 구현**
 - 🙋🏻‍♀️**로그인 토큰 유무에 따른 회원가입 유도 팝업창 구현**
@@ -84,7 +86,7 @@ https://vimeo.com/540894798
 
 ### 상품 상세페이지
 - 상품 정보 컴포넌트화
-- 컬러, 옵션에 따른 가격 변동 기능 구현
+- 컬러, 옵션에 따른 가격 변동 기능 구현.  
 ![](https://images.velog.io/images/nsunny0908/post/039b2583-3e16-491c-8270-b3d7ed6190f3/addreview.gif)
 ![](https://images.velog.io/images/nsunny0908/post/884127a1-6961-4c52-80b5-5752071a8166/reviewstar.gif)
 ![](https://images.velog.io/images/nsunny0908/post/1007f6ab-2333-47d4-9158-2ec67e4e3fe6/Apr-25-2021%2017-09-39.gif)
@@ -104,8 +106,8 @@ https://vimeo.com/540894798
 - 각 테이블을 컴포넌트 화
 - 다음 주소 API를 활용한 주소 입력 기능
 
-### 결제 완료페이지
-🙋🏻‍♀️![](https://images.velog.io/images/nsunny0908/post/4a59e79c-3879-4fbf-87fb-27d0012a9d33/C20BBDC0-A9E6-466E-8A8D-3BFCE88B661A.jpg)
+### 🙋🏻‍♀️ 결제 완료페이지
+![](https://images.velog.io/images/nsunny0908/post/4a59e79c-3879-4fbf-87fb-27d0012a9d33/C20BBDC0-A9E6-466E-8A8D-3BFCE88B661A.jpg)
 
 ---
 
